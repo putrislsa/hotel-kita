@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  <meta content="" name="description" />
     <meta content="webthemez" name="author" />
-    <title>Hotel PSnA</title>
+    <title>Hotel 3Sks</title>
  <!-- Bootstrap Styles-->
     <link href="../assets/css/bootstrap.css" rel="stylesheet" />
     <link href="../assets/css/bootstrap-theme.min.css" rel="stylesheet" />
@@ -37,7 +37,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html" style="background-color:	#778899;" ><strong><i class="icon fa fa-home"></i>Hotel PSnA</strong></a>
+                <a class="navbar-brand" href="index.html" style="background-color:	#778899;" ><strong><i class="icon fa fa-home"></i>Hotel 3Sks</strong></a>
     <div id="sideNav" href="">
   <i class="fa fa-bars icon"></i> 
   </div>
